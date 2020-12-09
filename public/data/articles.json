@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "全球新冠疫情追踪",
+    "content": "",
+    "posted": "2",
+    "articleType": "TOP_STORY",
+    "cat": "每日更新",
+    "where": "金融时报",
+    "image_list": ["article-4.png"],
+    "isFavourite": true
+  },
+  {
+    "id": 2,
+    "title": "西班牙死亡人数超中国；英国查尔斯王子确诊",
+    "content": "",
+    "posted": "2",
+    "image_list": ["article-1.png", "article-2.png", "article-3.png"],
+    "cat": "简报",
+    "where": "金融时报",
+    "articleType": "TOP_STORY",
+    "isFavourite": false
+  },
+  {
+    "id": 3,
+    "title": "全球新冠疫情追踪",
+    "content": "",
+    "posted": "2",
+    "articleType": "TOP_STORY",
+    "cat": "每日更新",
+    "where": "金融时报",
+    "image_list": ["article-4.png"],
+    "isFavourite": true
+  },
+  {
+    "id": 4,
+    "title": "西班牙死亡人数超中国；英国查尔斯王子确诊",
+    "content": "",
+    "posted": "2",
+    "image_list": ["article-1.png", "article-2.png", "article-3.png"],
+    "cat": "简报",
+    "where": "金融时报",
+    "articleType": "TOP_STORY",
+    "isFavourite": false
+  }
+]
